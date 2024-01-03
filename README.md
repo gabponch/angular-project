@@ -1,3 +1,1 @@
-Projeto em Angular para Loja LH Games
-
-SENAI 2023 | Curso Programador Front-end
+Projeto em Angular para Loja LH Games realizado por Gabriella Pontes no Curso Programador Front-end | SENAI 2022.
